@@ -1,8 +1,15 @@
 body {
     color: white;
-    background-color: #333;
-    font-size: 150%;
-    font-family: 'Satisfy', cursive;
+    background-color: red;
+    font-size: 32px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Sacramento', cursive;
     margin: 5em 25%;
+<<<<<<< HEAD
     border: 1px dashed blue
   }
+=======
+  }
+>>>>>>> 211d1a693477b366ea7144009b51d40c0eb3a9d2
