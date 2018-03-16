@@ -1,6 +1,6 @@
 body {
     color: white;
-    background-color: black;
+    background-color: red;
     font-size: 32px;
     margin-top: 5%;
     margin-left: 20%;
@@ -8,4 +8,3 @@ body {
     font-family: 'Sacramento', cursive;
     margin: 5em 25%;
   }
-  
